@@ -3,5 +3,22 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.19.0"
-  }
+  },
+  "description": "[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashi0602/sample_lerna_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takashi0602/sample_lerna_project/issues"
+  },
+  "homepage": "https://github.com/takashi0602/sample_lerna_project#readme"
 }
