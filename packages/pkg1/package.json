@@ -1,6 +1,6 @@
 {
   "name": "pkg1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "takashi0602 <takashioicsn@gmail.com>",
   "homepage": "https://github.com/takashi0602/sample_lerna_project#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/takashi0602/sample_lerna_project/issues"
   },
   "dependencies": {
-    "pkg2": "^0.0.0"
+    "pkg2": "^0.0.1"
   }
 }
