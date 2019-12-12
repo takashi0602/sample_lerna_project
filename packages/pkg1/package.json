@@ -18,7 +18,7 @@
     "url": "git+https://github.com/takashi0602/sample_lerna_project.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"test pkg1\""
   },
   "bugs": {
     "url": "https://github.com/takashi0602/sample_lerna_project/issues"
