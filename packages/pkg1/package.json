@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/takashi0602/sample_lerna_project/issues"
+  },
+  "dependencies": {
+    "pkg2": "^0.0.0"
   }
 }
