@@ -24,6 +24,7 @@
     "url": "https://github.com/takashi0602/sample_lerna_project/issues"
   },
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "pkg2": "^0.0.1"
   }
 }
